@@ -1,5 +1,8 @@
-Architecture du projet 
+# Architecture du projet
 
+Voici la structure du projet :
+
+```plaintext
 .
 ├── data
 │   ├── apache_logs.txt
