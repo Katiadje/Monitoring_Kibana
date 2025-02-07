@@ -1,268 +1,242 @@
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
@@ -270,42 +244,59 @@
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
@@ -313,243 +304,239 @@
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
@@ -557,410 +544,368 @@
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
@@ -969,107 +914,102 @@
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
@@ -1078,207 +1018,203 @@
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
@@ -1288,669 +1224,474 @@
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
@@ -1958,258 +1699,167 @@
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
@@ -2219,216 +1869,200 @@
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
@@ -2437,157 +2071,147 @@
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
+{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
@@ -2596,53 +2220,38 @@
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "INFO", "message": "User logged in", "user_id": 1}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Failed to connect to database", "user_id": 2}
-{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
+{"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
-{"level": "ERROR", "message": "Permission denied", "user_id": 4}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
+{"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "DEBUG", "message": "Query executed", "user_id": 3}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
 {"level": "INFO", "message": "User logged in", "user_id": 1}
